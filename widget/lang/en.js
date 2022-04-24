@@ -16,5 +16,5 @@ export default {
   nickname_is_required: 'Nickname is required',
 
   comment_has_been_sent:
-    'Your comment has been sent. Please wait for approval.',
+    'Your comment has been sent.',
 }
